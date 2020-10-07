@@ -6,4 +6,4 @@ It uses A* and a neural network trained with a genetic algorithm, its totally ov
 
 The code doesn't work by itself but I think its interesting even without the board and game code.
 
-There are also the training files and another AI that doesn't use neural nets but got me pretty far anyway.
+There are also the training files (ONN files) and another AI that doesn't use neural nets but got me pretty far anyway (NordBfPr).
